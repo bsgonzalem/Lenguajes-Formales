@@ -24,3 +24,6 @@
     Example (rejected)
     Insert the string for the automaton: aaaa
     This is the rejected status in the automaton.
+
+### Video Link: 
+https://youtu.be/oS18MIoWQdk
